@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm Mustafa, a **Data Analyst** driven by a passio
 ---
   
 ## 📂 Featured Projects
-- [Bike Store Sales Analysis](https://github.com/mustafamragab/Bike-Store-Sales-Analysis/blob/main/README.md)
-
+### [Bike Store Sales Analysis](https://github.com/mustafamragab/Bike-Store-Sales-Analysis/blob/main/README.md)  
 Analyzed 113K+ transactions across 6 countries using Excel and Power BI with $84.8M revenue insights, seasonal trends, and customer segmentation. 
+
 
 ---
 
