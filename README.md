@@ -30,5 +30,5 @@ Welcome to my GitHub profile! I'm Mustafa, a **Data Analyst** driven by a passio
 ## 📫 Connect with Me
 **Let's Connect:** Feel free to explore my projects showcasing my analytical capabilities and problem-solving approach. I'm always open to collaborating on interesting data challenges!
 
-- LinkedIn: [linkedin.com/in/mustafaragab/](https://www.linkedin.com/in/mustafaragab/)  
-- Email: mustafamoragab@gmail.com 
+- **LinkedIn:** [linkedin.com/in/mustafaragab](https://www.linkedin.com/in/mustafaragab/)  
+- **Email:** mustafamoragab@gmail.com 
