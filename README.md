@@ -1,16 +1,34 @@
-## Hi there 👋
+# Mustafa Ragab
+Welcome to my GitHub profile! I'm Mustafa, a **Data Analyst** driven by a passion for transforming raw data into actionable insights that support decision-making and process improvement. With hands-on experience in **data cleaning**, **analysis**, and **visualization** using **SQL**, **Excel**, and **Power BI**. Always eager to learn and share knowledge through practical projects.
 
-<!--
-**mustafamragab/mustafamragab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+  
+## 📂 Featured Projects  
+- [Bike Store Sales Analysis](https://github.com/your-username/bike-sales-analysis) Excel + Power BI dashboard with KPIs.
 
-Here are some ideas to get you started:
+  Analyzed 113K+ transactions across 6 countries using Excel & Power BI.  
+  - $84.8M revenue insights, seasonal trends, and customer segmentation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 What I Do  
+- **Data Cleaning & Preprocessing:** Handling missing values, duplicates, and inconsistent data to prepare reliable datasets.  
+- **Exploratory Data Analysis (EDA):** Discovering patterns, correlations, and anomalies using statistics and visualization.  
+- **Building Interactive Dashboards & Reports:** Developing dashboards to uncover trends, track Business performance, and support data-driven decision-making.
+- **Communicating Data-driven Insights & Recommendations:** Translating data into clear, actionable business strategies.
+
+---
+
+## 🛠️ Skills & Tools
+- **SQL:** Data slices, Aggregate Functions, Grouping and Sorting Data, Table Relationships and Joining Tables, Subqueries and CTEs, Database Administration Basics (PostgreSQL, MySQL).
+- **Excel:** Pivot tables, Advanced Functions and Formulas, Conditional formatting, Data cleaning and Preprocessing, Data validation and Analysis. Used for quick exploratory analysis and reporting. 
+- **Power BI:** Interactive dashboards and reports, DAX formulas, Data modeling, Connecting multiple data sources.
+- **Other Tools:** Markdown (documentation & projects READMEs), Word and PowerPoint (reporting and presenting insights to stakeholders).
+
+---
+
+## 📫 Connect with Me
+**Let's Connect:** Feel free to explore my projects showcasing my analytical capabilities and problem-solving approach. I'm always open to collaborating on interesting data challenges!
+
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- Email: your.email@example.com  
