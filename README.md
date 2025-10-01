@@ -4,24 +4,29 @@ Welcome to my GitHub profile! I'm Mustafa, a **Data Analyst** driven by a passio
 ---
   
 ## 📂 Featured Projects
-### [Bike Store Sales Analysis](https://github.com/mustafamragab/Bike-Store-Sales-Analysis/blob/main/README.md)  
-Analyzed 113K+ transactions across 6 countries using Excel and Power BI with $84.8M revenue insights, seasonal trends, and customer segmentation. 
-
+### [Bike Store Sales Analysis](https://github.com/mustafamragab/Bike-Store-Sales-Analysis/blob/main/README.md)
+Analyzed 113K+ transactions across 6 countries using Excel and Power BI with $84.8M revenue insights, seasonal trends, and customer segmentation.
 
 ---
 
 ## 📌 What I Do  
-- **Data Cleaning & Preprocessing:** Handling missing values, duplicates, and inconsistent data to prepare reliable datasets.  
-- **Exploratory Data Analysis (EDA):** Discovering patterns, correlations, and anomalies using statistics and visualization.  
+- **Data Cleaning & Preprocessing:** Handling missing values, duplicates, and inconsistent data to prepare reliable datasets.
+ 
+- **Exploratory Data Analysis (EDA):** Discovering patterns, correlations, and anomalies using statistics and visualization.
+
 - **Building Interactive Dashboards & Reports:** Developing dashboards to uncover trends, track Business performance, and support data-driven decision-making.
+
 - **Communicating Data-driven Insights & Recommendations:** Translating data into clear, actionable business strategies.
 
 ---
 
 ## 🛠️ Skills & Tools
 - **SQL:** Data slices, Aggregate Functions, Grouping and Sorting Data, Table Relationships and Joining Tables, Subqueries and CTEs, Database Administration Basics (PostgreSQL, MySQL).
-- **Excel:** Pivot tables, Advanced Functions and Formulas, Conditional formatting, Data cleaning and Preprocessing, Data validation and Analysis. Used for quick exploratory analysis and reporting. 
+
+- **Excel:** Pivot tables, Advanced Functions and Formulas, Conditional formatting, Data cleaning and Preprocessing, Data validation and Analysis. Used for quick exploratory analysis and reporting.
+
 - **Power BI:** Interactive dashboards and reports, DAX formulas, Data modeling, Connecting multiple data sources.
+
 - **Other Tools:** Markdown (documentation & projects READMEs), Word and PowerPoint (reporting and presenting insights to stakeholders).
 
 ---
