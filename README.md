@@ -1,4 +1,5 @@
 # Mustafa Ragab
+#### Data Analyst | SQL, Excel, Power BI
 Welcome to my GitHub profile! I'm Mustafa, a **Data Analyst** driven by a passion for transforming raw data into actionable insights that support decision-making and process improvement. With hands-on experience in **data cleaning**, **analysis**, and **visualization** using **SQL**, **Excel**, and **Power BI**. Always eager to learn and share knowledge through practical projects.
 
 ---
