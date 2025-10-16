@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Mustafa, a **Data Analyst** driven by a passio
 ---
 
 ## 🛠️ Skills & Tools
-- **SQL:** Data slices, Aggregate Functions, Grouping and Sorting Data, Table Relationships and Joining Tables, Subqueries and CTEs, window functions, Database Administration Basics (PostgreSQL, MySQL).
+- **SQL:** Data slices, aggregate functions, grouping and sorting data, table relationships and joining tables, subqueries and CTEs, window functions, database administration basics (PostgreSQL, MySQL).
 
 - **Excel:** Pivot tables, Advanced Functions and Formulas, Conditional formatting, Data cleaning and Preprocessing, Data validation and Analysis. Used for quick exploratory analysis and reporting.
 
